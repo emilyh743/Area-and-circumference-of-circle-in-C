@@ -1,3 +1,0 @@
-Enter radius (in cm):						Enter radius (in cm):
-Circle's area is 3.14 (sq in).				      |	Circle's area is 20.27 (sq in).
-Its circumference is 6.28 (in).					Its circumference is 6.28 (in).
